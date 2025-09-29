@@ -1,7 +1,11 @@
-# Online Food Ordering System (Java Swing)
+# Online Food Ordering System
 
-This is a simple **Online Food Ordering System** built with **Java Swing** and **MySQL**.  
-It is an academic team project skeleton you can upload to GitHub and build on.
+📌 **Academic Project**  
+Semester: 2-2 | Year: 2023
+
+This project was developed as part of the 2-2 semester coursework in 2023.  
+It is built using **Java Swing** for GUI and **MySQL (via JDBC)** for database connectivity.
+
 
 ## Features (basic)
 - User login (simple username/password)
